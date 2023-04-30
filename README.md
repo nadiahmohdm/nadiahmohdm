@@ -10,14 +10,13 @@ I'm still getting used to code. Everything seems alien, but I'm gonna get throug
 ## 💨 I’m currently practising ...
 + Javascript
 + Unit testing and E2E testing
-+ Vue
++ React
 <!-- TO DO: add more details about me later -->
 
 ## 🍀 Development experience
 
 ### 💼 Work
 + Online platform to renew motor insurance and road tax [MYKHIDMAT2U](https://www.mykhidmat2u.com)
-
     > Tech stack: Next.js, Tailwind CSS
 
 ### 🐈 Pet project
